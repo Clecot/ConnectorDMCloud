@@ -1,0 +1,8 @@
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\obj\Debug\CloudKey.CSharp.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\bin\Debug\CloudKey.CSharp.UnitTest.dll
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\bin\Debug\CloudKey.CSharp.UnitTest.pdb
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\bin\Debug\CloudKey.CSharp.Master.dll
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\bin\Debug\CloudKey.CSharp.Master.pdb
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\obj\Debug\CloudKey.CSharp.UnitTest.dll
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\obj\Debug\CloudKey.CSharp.UnitTest.pdb
+C:\Users\khaled.baccouche\Desktop\CloudKey.CSharp.Master\CloudKey.CSharp.Master\CloudKey.CSharp.UnitTest\bin\Debug\CloudKey.CSharp.UnitTest.dll.config
